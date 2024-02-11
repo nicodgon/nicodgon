@@ -9,4 +9,4 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%23ad3"> <img alt="Static Badge" src="https://img.shields.io/badge/Express-%23fff"> <img alt="Static Badge" src="https://img.shields.io/badge/Npm-%23f00"> <img alt="Static Badge" src="https://img.shields.io/badge/NodeJS-%238d6">
 
 ## 📊 Estadísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicodgon&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicodgon&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
