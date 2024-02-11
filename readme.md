@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola,+soy+Nicolás😁;Desarrollador+web+Fullstack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HOLA,+SOY+NICOLÁS😁;DESARROLLADOR+WEB+FULLSTACK)](https://git.io/typing-svg)
 
 <img src="./assets/images/banner.png" alt="mi banner">
 
